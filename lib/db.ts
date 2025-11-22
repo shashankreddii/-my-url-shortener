@@ -11,7 +11,7 @@ CREATE TABLE links (
 );
 */
 
-let pool;
+let pool: Pool;
 
 if (process.env.POSTGRES_URL) {
   pool = new Pool({

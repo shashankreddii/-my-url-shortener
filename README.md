@@ -108,4 +108,4 @@ Start the application in development mode.
 npm run dev
 ```
 
-Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see the application running.
+Open your browser and navigate to [http://localhost:4001](http://localhost:4001) to see the application running.
